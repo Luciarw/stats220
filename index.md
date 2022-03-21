@@ -5,5 +5,7 @@
 1. **Trying to make a funny meme**
 2. **An idea comes up**
 3. **Search images online**
+* ![cat](https://c.tenor.com/jNgKSlUpmkEAAAAM/typing-laptop.gif)
+* ![sloth](https://c.tenor.com/GYYxsYIlxjcAAAAM/sloth-office.gif)
 4. **Added texts at the bottom**
 
