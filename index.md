@@ -1,9 +1,9 @@
 # Below is a meme I made using the R function magick.
-![my_meme.png]()
+![my_meme.png](https://github.com/Luciarw/stats220/blob/main/my_meme.png?raw=true)
 
 ## Inspiration of my meme:
-* Trying to make a funny meme
-* An idea comes up
-* Search images online
-* Added texts at the bottom
-* 
+1. **Trying to make a funny meme**
+2. **An idea comes up**
+3. **Search images online**
+4. **Added texts at the bottom**
+
