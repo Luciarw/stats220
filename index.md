@@ -1,1 +1,1 @@
-(my_meme.png)
+(cat_typing.gif)
